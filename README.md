@@ -1,7 +1,7 @@
-# Starlight Express
+# Stardust Express
 
 # Info
-**<INSERT INFO>**
+**INSERT INFO**
 
 Game Version: 0.1
-Development Start Date: **<INSERT DATE>**
+Development Start Date: **INSERT DATE**
