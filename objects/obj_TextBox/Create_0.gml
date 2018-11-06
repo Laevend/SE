@@ -1,6 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
-text ="To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life. ";
 
+//This text variable should be changed by the npc so that different npc can have different text in the box
+text[0] ="To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life. ";
+
+page = 0;
+text_padding = 20;
 box_Width = sprite_get_width(spr_textBox);
-string_Height = string_height(text);
+string_Height = string_height(text[0]);

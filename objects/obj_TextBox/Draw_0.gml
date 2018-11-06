@@ -4,11 +4,7 @@
 
 
 //Draw a dialogue box
-draw_sprite(spr_textBox,0,x,y);
-
-
-
-
+draw_sprite(spr_textBox,0,0,room_height/2);
 
 //Draw the text
-draw_text_ext(x,y,text,string_Height,box_Width);
+draw_text_ext(text_padding,room_height/2+text_padding,text[page],string_Height,box_Width);
