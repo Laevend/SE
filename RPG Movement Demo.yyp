@@ -39,6 +39,22 @@
             }
         },
         {
+            "Key": "0c6d5519-0daf-4183-9304-f82d350f9ce9",
+            "Value": {
+                "id": "2b06ea85-8f68-47d4-b1bb-6bfc2c32a662",
+                "resourcePath": "rooms\\room_textbox\\room_textbox.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "0d909a79-5b1f-46d0-93f0-60b280e36962",
+            "Value": {
+                "id": "690f0bc0-91e2-47c0-82de-80c203ad9695",
+                "resourcePath": "objects\\obj_textboxNPC\\obj_textboxNPC.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "18ff44e8-bcdb-4d8c-a5df-a0e256fbf728",
             "Value": {
                 "id": "c83e0e95-4340-4cee-a456-b1266f431ea0",
@@ -151,6 +167,14 @@
             }
         },
         {
+            "Key": "78c25503-f0ad-4a47-8c7e-558315bbfc6d",
+            "Value": {
+                "id": "53bd8059-3fdb-4df5-836f-b2fc85619a1b",
+                "resourcePath": "sprites\\spr_textBox\\spr_textBox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7a5a5158-cbaa-4188-984f-140ff5f7fcf4",
             "Value": {
                 "id": "2fbe11f4-934c-4fc8-b20f-e1de51fc6304",
@@ -172,6 +196,22 @@
                 "id": "5702afbd-4edc-45f9-a924-07f4fa6f5ac9",
                 "resourcePath": "sprites\\spr_editor_controller\\spr_editor_controller.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "84004d6d-1016-43b6-b9bc-5c39a28c7632",
+            "Value": {
+                "id": "a7af6245-a3c2-4ff3-a80c-5cf520c0172e",
+                "resourcePath": "sprites\\spr_textnpc\\spr_textnpc.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8b47d0b6-682f-4358-87b7-b051dbbe8656",
+            "Value": {
+                "id": "36fc67d1-a5f6-44ea-a6ed-75c4e4059110",
+                "resourcePath": "objects\\obj_TextBox\\obj_TextBox.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -344,7 +384,7 @@
         }
     ],
     "script_order": [
-        
+        "c6c03af9-95e8-4d52-a810-d6674fd00d40"
     ],
     "tutorial": ""
 }
