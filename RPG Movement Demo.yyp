@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "465ecab0-3489-4ec3-abbd-f9c0d740e805",
+            "Value": {
+                "id": "e56dd58c-3cdc-4cfa-a0f6-111e9d8426f6",
+                "resourcePath": "fonts\\textBox\\textBox.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "4b35f235-8cab-4dc5-be1f-432b56bd4c01",
             "Value": {
                 "id": "f7ce5ec9-1366-4969-842e-cb4a79270a8b",
@@ -271,6 +279,14 @@
             }
         },
         {
+            "Key": "bff37779-fa30-4cf3-a480-f9b607b74290",
+            "Value": {
+                "id": "565ebf11-c93e-4bca-97aa-878f12e53faa",
+                "resourcePath": "scripts\\scr_textbox\\scr_textbox.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c218b3e7-11ca-4874-b998-d0d3c7e69455",
             "Value": {
                 "id": "a4ac1e7b-8974-4d21-8985-324185fd3e46",
@@ -384,7 +400,8 @@
         }
     ],
     "script_order": [
-        "c6c03af9-95e8-4d52-a810-d6674fd00d40"
+        "c6c03af9-95e8-4d52-a810-d6674fd00d40",
+        "bff37779-fa30-4cf3-a480-f9b607b74290"
     ],
     "tutorial": ""
 }
