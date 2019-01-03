@@ -1,6 +1,11 @@
 /// @description Requires dx and dy defined
 // You can write your code in this editor
 
+if (global.paused)
+{	// if the game is paused, don't do anything
+	return;
+}
+
 var _sdx = dx;
 var _sdy = dy;
 

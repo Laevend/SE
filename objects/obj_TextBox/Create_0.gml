@@ -9,6 +9,11 @@ text_padding = 5;
 box_Width = sprite_get_width(spr_textBox);
 string_Height = string_height(text[0]);
 
+npc_origin = noone;
+fade_in_time = 10; // time, in frames, before the text box can be interacted with.
+// this should be at least 1, or the space press to talk to the NPC will carry over and immediately skip the first string.
+time_elapsed = 0;
+
 /*
 
 x_scale = 
