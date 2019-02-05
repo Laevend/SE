@@ -10,7 +10,8 @@
         "b00a5f77-07df-4da8-87d2-2f75a81040cd",
         "2019142c-bdf4-438c-8dad-208d4863eda8",
         "0eb2cc56-da41-41b0-9c3c-224aae4e539a",
-        "185dbd93-0a1d-439e-9756-047736b8fab7"
+        "185dbd93-0a1d-439e-9756-047736b8fab7",
+        "d0b1303e-ead7-4fc8-81ef-68da40eb3648"
     ],
     "IsDnD": false,
     "layers": [
@@ -19,8 +20,8 @@
             "name": "Text_Box",
             "id": "7ed3fc96-9426-41af-ae2b-4f8d768c3ca5",
             "depth": 0,
-            "grid_x": 32,
-            "grid_y": 32,
+            "grid_x": 16,
+            "grid_y": 16,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": false,
@@ -28,7 +29,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_613C2D5","id": "d0b1303e-ead7-4fc8-81ef-68da40eb3648","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_613C2D5","objId": "61358814-d148-495e-9a32-19e170d4a81d","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 176,"y": 64}
             ],
             "layers": [
 

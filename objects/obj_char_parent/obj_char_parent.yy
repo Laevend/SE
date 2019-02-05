@@ -139,34 +139,6 @@
             "value": "0",
             "varName": "dy",
             "varType": 0
-        },
-        {
-            "id": "83282518-bf4a-4529-8421-affb401661fb",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "x",
-            "varName": "real_x",
-            "varType": 4
-        },
-        {
-            "id": "ffa89329-7304-4595-a3d1-3e043379467f",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "y",
-            "varName": "real_y",
-            "varType": 4
         }
     ],
     "solid": true,

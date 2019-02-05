@@ -17,4 +17,6 @@ if(place_meeting(x,y,obj_player)) // check if the player is near the npc to have
 	}
 }/**/
 
+
+
 event_inherited();
