@@ -1,7 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-NPC_text[0] = "I'm a nuisance!";
-NPC_text[1] = "I'm in your way!";
-NPC_text[2] = "..?";
-NPC_text[3] = "Oh, fine. I'll move.";
+npc_text[0] = "I'm a nuisance!|I'm in your way!|..?|Oh, fine. I'll move.";
+npc_text[1] = "...Well?|I moved already! I ain't in your way no more.";

@@ -1,10 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-switch (npc_state)
+npc_state++;
+if (npc_state > 2)
 {
-	case 0:
-		x += 16;
-		npc_state++;
-		break;
+	npc_state = 0;
 }
