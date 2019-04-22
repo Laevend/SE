@@ -4,7 +4,14 @@
 switch (npc_state)
 {
 	case 0:
+	
+		if (obj_char_parent.x > self.x){ 
+		x -= 16;
+		}
+		else if (obj_char_parent.x <= self.x){
 		x += 16;
+		}
+		
 		npc_state++;
 		break;
 }

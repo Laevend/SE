@@ -1,4 +1,4 @@
-padding  =50; //paddding on x_axis between box and window
+padding  =50; //padding on x_axis between box and window
 
 width= window_get_width() - (padding *2);
 height = 200;
