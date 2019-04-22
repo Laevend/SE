@@ -12,4 +12,4 @@ draw_set_font(textBox);
 draw_sprite_stretched(spr_textBox,0,view_get_xport(0)+10,view_get_yport(0)+camera_get_view_height(view_camera[0])*3/4,camera_get_view_width(view_camera[0])-2*10,camera_get_view_height(view_camera[0])/4);
 
 //Draw the text
-draw_text_ext(10+text_padding,view_get_yport(0)+camera_get_view_height(view_camera[0])*3/4+text_padding,current_text,string_Height,camera_get_view_width(view_camera[0])-2*10);
+draw_text_ext(10+text_padding,view_get_yport(0)+camera_get_view_height(view_camera[0])*3/4+text_padding,current_text,string_Height,camera_get_view_width(view_camera[0])-3*10);
