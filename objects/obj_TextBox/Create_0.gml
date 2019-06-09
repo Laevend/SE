@@ -8,7 +8,8 @@ text_length = 0;
 current_text = "";
 
 page = 0;
-text_padding = 5;
+padding_top = 8;
+padding_side = 16;
 box_Width = sprite_get_width(spr_textBox);
 string_Height = string_height(text);
 

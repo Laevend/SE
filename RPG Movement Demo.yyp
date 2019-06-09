@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "384b6459-e933-4db2-b59a-33317753061b",
+            "Value": {
+                "id": "1f32e97d-0b03-4bce-b241-0e6780797e6a",
+                "resourcePath": "objects\\obj_npc_galfy\\obj_npc_galfy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
             "Value": {
                 "id": "50444b71-4e5d-4a59-852f-fc42ca025fd6",
@@ -188,6 +196,14 @@
                 "id": "49d2aadd-4c6e-4881-8389-6f592d0c942d",
                 "resourcePath": "sprites\\spr_char_default_walk_up\\spr_char_default_walk_up.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "607774e2-2006-4628-b2ce-13a8c32cc574",
+            "Value": {
+                "id": "60fe5aae-d66f-4580-b400-902aeff21f3a",
+                "resourcePath": "rooms\\room_test_train\\room_test_train.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -391,6 +407,14 @@
             }
         },
         {
+            "Key": "c4462171-1db2-4aa0-a900-1ddbfe846676",
+            "Value": {
+                "id": "bea34fe9-64c4-4b2d-9cad-aa8e6098e5bf",
+                "resourcePath": "sprites\\spr_npc_galfy_idle\\spr_npc_galfy_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c6c03af9-95e8-4d52-a810-d6674fd00d40",
             "Value": {
                 "id": "e361ae24-d59d-4feb-8429-0bacf0b85b4d",
@@ -484,6 +508,14 @@
                 "id": "df8cd089-a9ff-4dcf-9ef7-b0927dddc019",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f6aac300-8812-4015-9780-f34d8148283f",
+            "Value": {
+                "id": "3eabb430-f3d8-42c4-8caf-39b267f163ed",
+                "resourcePath": "sprites\\spr_train_test\\spr_train_test.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -4,6 +4,6 @@
 #macro st_play 0
 #macro st_inactive 1;
 
-global.char_speed = 1.2;
+global.char_speed = 2;
 global.paused = false;
 global.player_state = 0;
